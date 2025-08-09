@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/junaofnetwork/count.svg?"  />
+  <img src="meu-portoflio-joao-eduardo.netlify.app"  />
 </div>
 
 ###
