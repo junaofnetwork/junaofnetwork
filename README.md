@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="meu-portoflio-joao-eduardo.netlify.app"  />
+  <a href="meu-portoflio-joao-eduardo.netlify.app">meu portfólio</a>
 </div>
 
 ###
