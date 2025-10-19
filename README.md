@@ -45,9 +45,10 @@
 
 ## 📫 Onde me encontrar
 
-🔗 [GitHub](#https://github.com/junaofnetwork)  
-🔗 [LinkedIn](#www.linkedin.com/in/jo%25C3%25A3o-eduardo-brandenburg-de-almeida-b51720320/?skipRedirect=true)  
-🔗 [Instagram](#https://www.instagram.com/joao_aleatorio_do_es)  
+📂 [GitHub](https://github.com/junaofnetwork)  
+💼 [LinkedIn](https://linkedin.com/in/joão-eduardo-brandenburg-de-almeida-b51720320)  
+📸 [Instagram](https://instagram.com/joao_aleatorio_do_es)
+
 🔗 [Seu site ou portfólio](#)
 
 ---
