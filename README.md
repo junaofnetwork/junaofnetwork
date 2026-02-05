@@ -57,4 +57,3 @@
 
 > "Codando sonhos, um bug de cada vez." 😅  
 
-✨ Você pode substituir os GIFs por outros que achar mais engraçados ou motivacionais, deixando seu README 100% personalizado e épico!
